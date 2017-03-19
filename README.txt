@@ -36,19 +36,26 @@ Known bugs and disclaimers:
 
 
 Execution and Usage Instructions(logins & passwords)
+    admin@email.com and cuddy@email.com users are pre-loaded, but other users listed below
+    must be loaded using the "Import Record into HealthNet with a CSV" feature accessible
+    via the HealthNet Home Page of the pre-loaded admin account (admin@email.com) or manually
+    using the normal HealthNet registration process. The InitialSetup.csv file included in 
+    HealthNet.zip, contains the information necessary for the HealthNet system to generate 
+    the users below along with additional unlisted users, messages, etc.
+    
     You may register a Patient account or access one of our pre-made user accounts such as:
-    Note - Accounts and passwords are Case-Sensitive.
+
                                Users:                             Hospital:
     a.Patient -        Username: zach@email.com          - Strong Memorial Hospital
-                       Password: patientpassword
+                       Password: testpassword
 
 
     b.Nurse -          Username: chase@email.com         - Strong Memorial Hospital
-                       Password: nursepassword
+                       Password: testpassword
 
 
     c.Doctor -         Username: house@email.com         - Strong Memorial Hospital
-                       Password: doctorpassword
+                       Password: testpassword
 
 
     d.System Admin -   Username: admin@email.com
@@ -56,8 +63,9 @@ Execution and Usage Instructions(logins & passwords)
 
 
     d.Health Admin -   Username: cuddy@email.com         - Strong Memorial Hospital
-                       Password: adminpassword
-
+                       Password: testpassword
+    - Accounts/passwords are Case-Sensitive. Patient accounts may require validation
+    from an administrator account before being usable.
 
 Note - Accessing any urls that you know of for our site by accounts that are not authorized
 should land you on an account not authorized page. Similar situation if you are not logged in.
