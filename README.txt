@@ -14,7 +14,8 @@ Target Environment:
 
 
 Instructions:
-    1. Unzip the Release2Beta.zip file and place the contents onto your Desktop (not necessary, but then a different path must be used in step 2).
+    1. Unzip the Release2Beta.zip file and place the contents onto your Desktop (not necessary, but then a different path must 
+    be used in step 2).
     2. Using the 'cd' command in Command Prompt navigate into the first mysite folder containing the manage.py file
         which should be the following command path: ($ cd Desktop/HealthNetCode/mysite)
     3. In Command Prompt run the command 'python manage.py runserver'.
