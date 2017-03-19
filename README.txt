@@ -20,7 +20,8 @@ Instructions:
     3. In Command Prompt run the command 'python manage.py runserver'.
     4. Open a web browser(Not Mozilla FireFox as it is not compatible) and enter the url 'http://localhost:8000/HealthNet/'
     5. You may now either register as a new patient or use a premade account displayed below.
-    6. New Doctors, Nurses, and Admins need to be validated before the account will work; this can be completed by the existing Health Admin(cuddy@email.com)
+    6. New Doctors, Nurses, and Admins need to be validated before the account will work; this can be completed by the existing 
+    Health Admin(cuddy@email.com)
 
 
 Known bugs and disclaimers:
